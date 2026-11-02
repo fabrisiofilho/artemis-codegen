@@ -6,3 +6,20 @@
 Este projeto foi criado apartir de um gerador de codigo utizando Xtend e Xtext, a partir do mapeamento das entidades ele cria os Objetos e seus controllers, service e repository.
 
 ![Group 39](https://user-images.githubusercontent.com/65460537/232358559-8d14b08f-613d-4326-93ce-88653afbc6d3.png)
+
+---
+
+<!-- github-standardizer:start -->
+## Overview
+
+Spring application code generation experiment using Xtend and Xtext.
+
+## Technology indicators
+
+- Java / Maven
+
+## Getting started
+
+Check the project manifests and existing documentation for supported setup commands. No installation instructions were inferred.
+
+<!-- github-standardizer:end -->
